@@ -1,0 +1,16 @@
+C:\Users\laboratorio\Desktop\aula_pesquisa\pesquisa_e_ordenacao_2022\selection sort\cs\selection_sort\selection_sort\bin\Debug\net5.0\selection_sort.exe
+C:\Users\laboratorio\Desktop\aula_pesquisa\pesquisa_e_ordenacao_2022\selection sort\cs\selection_sort\selection_sort\bin\Debug\net5.0\selection_sort.deps.json
+C:\Users\laboratorio\Desktop\aula_pesquisa\pesquisa_e_ordenacao_2022\selection sort\cs\selection_sort\selection_sort\bin\Debug\net5.0\selection_sort.runtimeconfig.json
+C:\Users\laboratorio\Desktop\aula_pesquisa\pesquisa_e_ordenacao_2022\selection sort\cs\selection_sort\selection_sort\bin\Debug\net5.0\selection_sort.runtimeconfig.dev.json
+C:\Users\laboratorio\Desktop\aula_pesquisa\pesquisa_e_ordenacao_2022\selection sort\cs\selection_sort\selection_sort\bin\Debug\net5.0\selection_sort.dll
+C:\Users\laboratorio\Desktop\aula_pesquisa\pesquisa_e_ordenacao_2022\selection sort\cs\selection_sort\selection_sort\bin\Debug\net5.0\ref\selection_sort.dll
+C:\Users\laboratorio\Desktop\aula_pesquisa\pesquisa_e_ordenacao_2022\selection sort\cs\selection_sort\selection_sort\bin\Debug\net5.0\selection_sort.pdb
+C:\Users\laboratorio\Desktop\aula_pesquisa\pesquisa_e_ordenacao_2022\selection sort\cs\selection_sort\selection_sort\obj\Debug\net5.0\selection_sort.csproj.AssemblyReference.cache
+C:\Users\laboratorio\Desktop\aula_pesquisa\pesquisa_e_ordenacao_2022\selection sort\cs\selection_sort\selection_sort\obj\Debug\net5.0\selection_sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laboratorio\Desktop\aula_pesquisa\pesquisa_e_ordenacao_2022\selection sort\cs\selection_sort\selection_sort\obj\Debug\net5.0\selection_sort.AssemblyInfoInputs.cache
+C:\Users\laboratorio\Desktop\aula_pesquisa\pesquisa_e_ordenacao_2022\selection sort\cs\selection_sort\selection_sort\obj\Debug\net5.0\selection_sort.AssemblyInfo.cs
+C:\Users\laboratorio\Desktop\aula_pesquisa\pesquisa_e_ordenacao_2022\selection sort\cs\selection_sort\selection_sort\obj\Debug\net5.0\selection_sort.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio\Desktop\aula_pesquisa\pesquisa_e_ordenacao_2022\selection sort\cs\selection_sort\selection_sort\obj\Debug\net5.0\selection_sort.dll
+C:\Users\laboratorio\Desktop\aula_pesquisa\pesquisa_e_ordenacao_2022\selection sort\cs\selection_sort\selection_sort\obj\Debug\net5.0\ref\selection_sort.dll
+C:\Users\laboratorio\Desktop\aula_pesquisa\pesquisa_e_ordenacao_2022\selection sort\cs\selection_sort\selection_sort\obj\Debug\net5.0\selection_sort.pdb
+C:\Users\laboratorio\Desktop\aula_pesquisa\pesquisa_e_ordenacao_2022\selection sort\cs\selection_sort\selection_sort\obj\Debug\net5.0\selection_sort.genruntimeconfig.cache
