@@ -6,18 +6,18 @@
 
 using namespace std;
 
+#define TAM 6
+
 int main(){
     setlocale(LC_ALL, "Portuguese");
     
-    int vet[5] = {5, 2, 3, 1, 4};
+    int vet[TAM];
 
-    sort_selection(vet, sizeof(vet)/sizeof(int));
+    fill_vet(vet, TAM);
     
-    for (int i = 0; i < 5; i++) {
+    show_vet(vet, TAM);
 
-        cout << "[" << vet[i] << "] ";
-
-    }
+    
 
     return 1;
 

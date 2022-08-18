@@ -1,14 +1,20 @@
 #include <iostream>
 #include <string>
 #include <cstdlib>
+#include <time.h>
 
 using namespace std;
 
 //   ### PROTÓTIPO DAS FUNÇÕES ###
 
 // VOID
+void fill_vet(int *vet, int tam);
+
+void show_vet(int *vet, int tam);
+
 void *sort_selection(int *vet, int tam);
-void *sort_insertion(int *vet, int tam); 
+void *sort_insertion(int *vet, int tam);
+
 
 //   #############################
 
@@ -51,6 +57,30 @@ void *sort_insertion(int *vet, int tam) {
         }
 
         vet[j + 1] = tmp;
+
+    }
+
+}
+
+void show_vet(int *vet, int tam) {
+
+    for (int i = 0; i < tam; i++) {
+
+        cout << "[" << vet[i] << "] ";
+
+    }
+
+    cout << endl;
+
+}
+
+void fill_vet(int *vet, int tam) {
+
+    srand((unsigned)time(0));
+
+    for (int i = 0; i < tam; i++) {
+
+        vet[i] = rand()%100;
 
     }
 
