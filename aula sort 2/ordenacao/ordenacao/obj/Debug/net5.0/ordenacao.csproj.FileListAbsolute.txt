@@ -1,0 +1,16 @@
+C:\Users\laboratorio\source\repos\ordenacao\ordenacao\bin\Debug\net5.0\ordenacao.exe
+C:\Users\laboratorio\source\repos\ordenacao\ordenacao\bin\Debug\net5.0\ordenacao.deps.json
+C:\Users\laboratorio\source\repos\ordenacao\ordenacao\bin\Debug\net5.0\ordenacao.runtimeconfig.json
+C:\Users\laboratorio\source\repos\ordenacao\ordenacao\bin\Debug\net5.0\ordenacao.runtimeconfig.dev.json
+C:\Users\laboratorio\source\repos\ordenacao\ordenacao\bin\Debug\net5.0\ordenacao.dll
+C:\Users\laboratorio\source\repos\ordenacao\ordenacao\bin\Debug\net5.0\ref\ordenacao.dll
+C:\Users\laboratorio\source\repos\ordenacao\ordenacao\bin\Debug\net5.0\ordenacao.pdb
+C:\Users\laboratorio\source\repos\ordenacao\ordenacao\obj\Debug\net5.0\ordenacao.csproj.AssemblyReference.cache
+C:\Users\laboratorio\source\repos\ordenacao\ordenacao\obj\Debug\net5.0\ordenacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laboratorio\source\repos\ordenacao\ordenacao\obj\Debug\net5.0\ordenacao.AssemblyInfoInputs.cache
+C:\Users\laboratorio\source\repos\ordenacao\ordenacao\obj\Debug\net5.0\ordenacao.AssemblyInfo.cs
+C:\Users\laboratorio\source\repos\ordenacao\ordenacao\obj\Debug\net5.0\ordenacao.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio\source\repos\ordenacao\ordenacao\obj\Debug\net5.0\ordenacao.dll
+C:\Users\laboratorio\source\repos\ordenacao\ordenacao\obj\Debug\net5.0\ref\ordenacao.dll
+C:\Users\laboratorio\source\repos\ordenacao\ordenacao\obj\Debug\net5.0\ordenacao.pdb
+C:\Users\laboratorio\source\repos\ordenacao\ordenacao\obj\Debug\net5.0\ordenacao.genruntimeconfig.cache
