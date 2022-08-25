@@ -65,12 +65,12 @@
             // textBox_listarNumeros
             // 
             this.textBox_listarNumeros.BackColor = System.Drawing.Color.White;
-            this.textBox_listarNumeros.Enabled = false;
             this.textBox_listarNumeros.Location = new System.Drawing.Point(12, 74);
             this.textBox_listarNumeros.Multiline = true;
             this.textBox_listarNumeros.Name = "textBox_listarNumeros";
+            this.textBox_listarNumeros.ReadOnly = true;
             this.textBox_listarNumeros.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.textBox_listarNumeros.Size = new System.Drawing.Size(308, 99);
+            this.textBox_listarNumeros.Size = new System.Drawing.Size(308, 87);
             this.textBox_listarNumeros.TabIndex = 3;
             // 
             // Form1
