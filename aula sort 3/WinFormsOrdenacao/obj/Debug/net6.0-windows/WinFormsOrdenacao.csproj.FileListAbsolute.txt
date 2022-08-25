@@ -1,0 +1,17 @@
+C:\Users\laboratorio\source\repos\WinFormsOrdenacao\bin\Debug\net6.0-windows\WinFormsOrdenacao.exe
+C:\Users\laboratorio\source\repos\WinFormsOrdenacao\bin\Debug\net6.0-windows\WinFormsOrdenacao.deps.json
+C:\Users\laboratorio\source\repos\WinFormsOrdenacao\bin\Debug\net6.0-windows\WinFormsOrdenacao.runtimeconfig.json
+C:\Users\laboratorio\source\repos\WinFormsOrdenacao\bin\Debug\net6.0-windows\WinFormsOrdenacao.dll
+C:\Users\laboratorio\source\repos\WinFormsOrdenacao\bin\Debug\net6.0-windows\WinFormsOrdenacao.pdb
+C:\Users\laboratorio\source\repos\WinFormsOrdenacao\obj\Debug\net6.0-windows\WinFormsOrdenacao.csproj.AssemblyReference.cache
+C:\Users\laboratorio\source\repos\WinFormsOrdenacao\obj\Debug\net6.0-windows\WinFormsOrdenacao.Form1.resources
+C:\Users\laboratorio\source\repos\WinFormsOrdenacao\obj\Debug\net6.0-windows\WinFormsOrdenacao.csproj.GenerateResource.cache
+C:\Users\laboratorio\source\repos\WinFormsOrdenacao\obj\Debug\net6.0-windows\WinFormsOrdenacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laboratorio\source\repos\WinFormsOrdenacao\obj\Debug\net6.0-windows\WinFormsOrdenacao.AssemblyInfoInputs.cache
+C:\Users\laboratorio\source\repos\WinFormsOrdenacao\obj\Debug\net6.0-windows\WinFormsOrdenacao.AssemblyInfo.cs
+C:\Users\laboratorio\source\repos\WinFormsOrdenacao\obj\Debug\net6.0-windows\WinFormsOrdenacao.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio\source\repos\WinFormsOrdenacao\obj\Debug\net6.0-windows\WinFormsOrdenacao.dll
+C:\Users\laboratorio\source\repos\WinFormsOrdenacao\obj\Debug\net6.0-windows\refint\WinFormsOrdenacao.dll
+C:\Users\laboratorio\source\repos\WinFormsOrdenacao\obj\Debug\net6.0-windows\WinFormsOrdenacao.pdb
+C:\Users\laboratorio\source\repos\WinFormsOrdenacao\obj\Debug\net6.0-windows\WinFormsOrdenacao.genruntimeconfig.cache
+C:\Users\laboratorio\source\repos\WinFormsOrdenacao\obj\Debug\net6.0-windows\ref\WinFormsOrdenacao.dll

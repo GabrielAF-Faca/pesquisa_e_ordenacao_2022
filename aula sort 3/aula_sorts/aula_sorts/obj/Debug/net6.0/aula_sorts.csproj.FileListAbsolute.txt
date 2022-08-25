@@ -1,0 +1,15 @@
+C:\Users\laboratorio\source\repos\aula_sorts\aula_sorts\bin\Debug\net6.0\aula_sorts.exe
+C:\Users\laboratorio\source\repos\aula_sorts\aula_sorts\bin\Debug\net6.0\aula_sorts.deps.json
+C:\Users\laboratorio\source\repos\aula_sorts\aula_sorts\bin\Debug\net6.0\aula_sorts.runtimeconfig.json
+C:\Users\laboratorio\source\repos\aula_sorts\aula_sorts\bin\Debug\net6.0\aula_sorts.dll
+C:\Users\laboratorio\source\repos\aula_sorts\aula_sorts\bin\Debug\net6.0\aula_sorts.pdb
+C:\Users\laboratorio\source\repos\aula_sorts\aula_sorts\obj\Debug\net6.0\aula_sorts.csproj.AssemblyReference.cache
+C:\Users\laboratorio\source\repos\aula_sorts\aula_sorts\obj\Debug\net6.0\aula_sorts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laboratorio\source\repos\aula_sorts\aula_sorts\obj\Debug\net6.0\aula_sorts.AssemblyInfoInputs.cache
+C:\Users\laboratorio\source\repos\aula_sorts\aula_sorts\obj\Debug\net6.0\aula_sorts.AssemblyInfo.cs
+C:\Users\laboratorio\source\repos\aula_sorts\aula_sorts\obj\Debug\net6.0\aula_sorts.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio\source\repos\aula_sorts\aula_sorts\obj\Debug\net6.0\aula_sorts.dll
+C:\Users\laboratorio\source\repos\aula_sorts\aula_sorts\obj\Debug\net6.0\refint\aula_sorts.dll
+C:\Users\laboratorio\source\repos\aula_sorts\aula_sorts\obj\Debug\net6.0\aula_sorts.pdb
+C:\Users\laboratorio\source\repos\aula_sorts\aula_sorts\obj\Debug\net6.0\aula_sorts.genruntimeconfig.cache
+C:\Users\laboratorio\source\repos\aula_sorts\aula_sorts\obj\Debug\net6.0\ref\aula_sorts.dll

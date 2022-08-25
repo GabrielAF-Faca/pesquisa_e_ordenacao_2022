@@ -12,13 +12,14 @@ void fill_vet(int *vet, int tam);
 
 void show_vet(int *vet, int tam);
 
-void *sort_selection(int *vet, int tam);
-void *sort_insertion(int *vet, int tam);
+void sort_selection(int *vet, int tam);
+void sort_insertion(int *vet, int tam);
 
+void sort_comb(int *vet, int tam);
 
 //   #############################
 
-void *sort_selection(int *vet, int tam) {
+void sort_selection(int *vet, int tam) {
 
     int posMenor;
 
@@ -42,7 +43,7 @@ void *sort_selection(int *vet, int tam) {
     }
 }
 
-void *sort_insertion(int *vet, int tam) {
+void sort_insertion(int *vet, int tam) {
 
     int tmp, j;
 
@@ -59,6 +60,39 @@ void *sort_insertion(int *vet, int tam) {
         vet[j + 1] = tmp;
 
     }
+
+}
+
+void sort_comb(int *vet, int tam) {
+
+    int dist = tam;
+    bool houve_troca = true;
+
+    do {
+        dist = (int) dist/1.3;
+
+        if (dist < 1) dist = 1;
+
+        houve_troca = false;
+
+        for (int i = 0; i+dist < tam; i++) {
+
+            if (vet[i] > vet[i+dist]) {
+
+                int aux = vet[i];
+                vet[i] = vet[i+dist];
+                vet[i+dist] = aux;
+
+                houve_troca = true;
+
+            }
+
+        }
+
+        //show_vet(vet, tam);
+
+    } while(dist > 1 || houve_troca);
+
 
 }
 
