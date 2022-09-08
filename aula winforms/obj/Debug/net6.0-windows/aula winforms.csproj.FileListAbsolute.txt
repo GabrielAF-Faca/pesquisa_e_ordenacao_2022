@@ -1,0 +1,17 @@
+C:\Users\laboratorio\source\repos\aula winforms\bin\Debug\net6.0-windows\aula winforms.exe
+C:\Users\laboratorio\source\repos\aula winforms\bin\Debug\net6.0-windows\aula winforms.deps.json
+C:\Users\laboratorio\source\repos\aula winforms\bin\Debug\net6.0-windows\aula winforms.runtimeconfig.json
+C:\Users\laboratorio\source\repos\aula winforms\bin\Debug\net6.0-windows\aula winforms.dll
+C:\Users\laboratorio\source\repos\aula winforms\bin\Debug\net6.0-windows\aula winforms.pdb
+C:\Users\laboratorio\source\repos\aula winforms\obj\Debug\net6.0-windows\aula winforms.csproj.AssemblyReference.cache
+C:\Users\laboratorio\source\repos\aula winforms\obj\Debug\net6.0-windows\aula_winforms.Form1.resources
+C:\Users\laboratorio\source\repos\aula winforms\obj\Debug\net6.0-windows\aula winforms.csproj.GenerateResource.cache
+C:\Users\laboratorio\source\repos\aula winforms\obj\Debug\net6.0-windows\aula winforms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laboratorio\source\repos\aula winforms\obj\Debug\net6.0-windows\aula winforms.AssemblyInfoInputs.cache
+C:\Users\laboratorio\source\repos\aula winforms\obj\Debug\net6.0-windows\aula winforms.AssemblyInfo.cs
+C:\Users\laboratorio\source\repos\aula winforms\obj\Debug\net6.0-windows\aula winforms.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio\source\repos\aula winforms\obj\Debug\net6.0-windows\aula winforms.dll
+C:\Users\laboratorio\source\repos\aula winforms\obj\Debug\net6.0-windows\refint\aula winforms.dll
+C:\Users\laboratorio\source\repos\aula winforms\obj\Debug\net6.0-windows\aula winforms.pdb
+C:\Users\laboratorio\source\repos\aula winforms\obj\Debug\net6.0-windows\aula winforms.genruntimeconfig.cache
+C:\Users\laboratorio\source\repos\aula winforms\obj\Debug\net6.0-windows\ref\aula winforms.dll
