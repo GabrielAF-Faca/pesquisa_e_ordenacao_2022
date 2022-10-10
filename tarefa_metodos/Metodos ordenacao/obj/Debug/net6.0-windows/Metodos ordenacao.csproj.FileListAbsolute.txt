@@ -1,0 +1,34 @@
+C:\Users\laboratorio\source\repos\Metodos ordenacao\bin\Debug\net6.0-windows\Metodos ordenacao.exe
+C:\Users\laboratorio\source\repos\Metodos ordenacao\bin\Debug\net6.0-windows\Metodos ordenacao.deps.json
+C:\Users\laboratorio\source\repos\Metodos ordenacao\bin\Debug\net6.0-windows\Metodos ordenacao.runtimeconfig.json
+C:\Users\laboratorio\source\repos\Metodos ordenacao\bin\Debug\net6.0-windows\Metodos ordenacao.dll
+C:\Users\laboratorio\source\repos\Metodos ordenacao\bin\Debug\net6.0-windows\Metodos ordenacao.pdb
+C:\Users\laboratorio\source\repos\Metodos ordenacao\obj\Debug\net6.0-windows\Metodos ordenacao.csproj.AssemblyReference.cache
+C:\Users\laboratorio\source\repos\Metodos ordenacao\obj\Debug\net6.0-windows\Metodos_ordenacao.Form1.resources
+C:\Users\laboratorio\source\repos\Metodos ordenacao\obj\Debug\net6.0-windows\Metodos ordenacao.csproj.GenerateResource.cache
+C:\Users\laboratorio\source\repos\Metodos ordenacao\obj\Debug\net6.0-windows\Metodos ordenacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laboratorio\source\repos\Metodos ordenacao\obj\Debug\net6.0-windows\Metodos ordenacao.AssemblyInfoInputs.cache
+C:\Users\laboratorio\source\repos\Metodos ordenacao\obj\Debug\net6.0-windows\Metodos ordenacao.AssemblyInfo.cs
+C:\Users\laboratorio\source\repos\Metodos ordenacao\obj\Debug\net6.0-windows\Metodos ordenacao.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio\source\repos\Metodos ordenacao\obj\Debug\net6.0-windows\Metodos ordenacao.dll
+C:\Users\laboratorio\source\repos\Metodos ordenacao\obj\Debug\net6.0-windows\refint\Metodos ordenacao.dll
+C:\Users\laboratorio\source\repos\Metodos ordenacao\obj\Debug\net6.0-windows\Metodos ordenacao.pdb
+C:\Users\laboratorio\source\repos\Metodos ordenacao\obj\Debug\net6.0-windows\Metodos ordenacao.genruntimeconfig.cache
+C:\Users\laboratorio\source\repos\Metodos ordenacao\obj\Debug\net6.0-windows\ref\Metodos ordenacao.dll
+C:\Users\Acer\Desktop\Metodos ordenacao\bin\Debug\net6.0-windows\Metodos ordenacao.exe
+C:\Users\Acer\Desktop\Metodos ordenacao\bin\Debug\net6.0-windows\Metodos ordenacao.deps.json
+C:\Users\Acer\Desktop\Metodos ordenacao\bin\Debug\net6.0-windows\Metodos ordenacao.runtimeconfig.json
+C:\Users\Acer\Desktop\Metodos ordenacao\bin\Debug\net6.0-windows\Metodos ordenacao.dll
+C:\Users\Acer\Desktop\Metodos ordenacao\bin\Debug\net6.0-windows\Metodos ordenacao.pdb
+C:\Users\Acer\Desktop\Metodos ordenacao\obj\Debug\net6.0-windows\Metodos ordenacao.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Metodos ordenacao\obj\Debug\net6.0-windows\Metodos_ordenacao.Form1.resources
+C:\Users\Acer\Desktop\Metodos ordenacao\obj\Debug\net6.0-windows\Metodos ordenacao.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\Metodos ordenacao\obj\Debug\net6.0-windows\Metodos ordenacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Metodos ordenacao\obj\Debug\net6.0-windows\Metodos ordenacao.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Metodos ordenacao\obj\Debug\net6.0-windows\Metodos ordenacao.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Metodos ordenacao\obj\Debug\net6.0-windows\Metodos ordenacao.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Metodos ordenacao\obj\Debug\net6.0-windows\Metodos ordenacao.dll
+C:\Users\Acer\Desktop\Metodos ordenacao\obj\Debug\net6.0-windows\refint\Metodos ordenacao.dll
+C:\Users\Acer\Desktop\Metodos ordenacao\obj\Debug\net6.0-windows\Metodos ordenacao.pdb
+C:\Users\Acer\Desktop\Metodos ordenacao\obj\Debug\net6.0-windows\Metodos ordenacao.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Metodos ordenacao\obj\Debug\net6.0-windows\ref\Metodos ordenacao.dll
